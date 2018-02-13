@@ -1,5 +1,11 @@
 # wordDeluxeCounter 
 
+First of all, clone this repository to your computer by:
+
+```
+> git clone https://github.com/Yuvalkeidar/wordDeluxeCounter.git
+```
+
 ## How to run Server:
 
 ```
