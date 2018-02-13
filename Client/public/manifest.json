@@ -1,0 +1,6 @@
+{
+  "short_name": "Queue App",
+  "name": "Queue App",
+  "start_url": "./index.html",
+  "display": "standalone",
+}

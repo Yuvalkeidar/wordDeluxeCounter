@@ -1,0 +1,34 @@
+{
+  "name": "word_counter_delux",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.17.1",
+    "axios-progress-bar": "^1.1.8",
+    "axios-status": "0.0.12",
+    "nprogress": "^0.2.0",
+    "react": "^16.2.0",
+    "react-async-script": "^0.9.1",
+    "react-dom": "^16.2.0",
+    "react-gcaptcha": "^4.2.0",
+    "react-google-recaptcha": "^0.8.1",
+    "react-grecaptcha": "^1.2.5",
+    "react-nprogress": "^0.1.6",
+    "react-recaptcha": "^2.3.7",
+    "react-redux": "^5.0.6",
+    "react-router": "^4.2.0",
+    "react-router-redux": "^4.0.8",
+    "react-s-alert": "^1.4.1",
+    "react-scripts": "1.1.1",
+    "react-validate-form": "^1.0.6",
+    "redux": "^3.7.2",
+    "redux-promise": "^0.5.3",
+    "socket.io-client": "^2.0.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
