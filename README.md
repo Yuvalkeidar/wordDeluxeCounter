@@ -21,6 +21,3 @@ Execute in the cmd this lines(Must node.js installed for npm install libraries):
 > npm start
 ```
 
-Start to use in this app as descibed in the hyber_ex.docx.
-Have a good day!
-
